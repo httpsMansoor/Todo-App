@@ -56,7 +56,7 @@ class TodoApp:
                 print("Please enter a valid number.")
 
 
-# Run the app
+
 if __name__ == "__main__":
     app = TodoApp()
     app.run()
